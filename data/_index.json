@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-25T07:24:43.269897+00:00",
+  "generated_at_utc": "2026-06-25T21:07:53.127848+00:00",
   "markets": [
     {
       "slug": "kalimati_kathmandu",
@@ -33,7 +33,7 @@
       "slug": "kamalamai_sindhuli",
       "name_en": "Kamalamai, Sindhuli",
       "name_np": "कमलामाई, सिन्धुली",
-      "status": "error: No price tables found for market 2598da44-a65d-43f6-8ee2-10da417f6e32 after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
+      "status": "ok",
       "file": "kamalamai_sindhuli.json"
     },
     {
