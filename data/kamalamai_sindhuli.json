@@ -1,8 +1,0 @@
-{
-  "market_slug": "kamalamai_sindhuli",
-  "market_name_en": "Kamalamai, Sindhuli",
-  "market_name_np": "कमलामाई, सिन्धुली",
-  "status": "error: No price tables found for market 2598da44-a65d-43f6-8ee2-10da417f6e32 after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
-  "fetched_at_utc": "2026-06-25T06:44:20.724588+00:00",
-  "prices": []
-}
