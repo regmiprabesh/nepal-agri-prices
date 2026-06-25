@@ -1,0 +1,89 @@
+{
+  "generated_at_utc": "2026-06-25T06:58:53.782655+00:00",
+  "markets": [
+    {
+      "slug": "kalimati_kathmandu",
+      "name_en": "Kalimati, Kathmandu",
+      "name_np": "कालीमाटी, काठमाडौं",
+      "status": "ok",
+      "file": "kalimati_kathmandu.json"
+    },
+    {
+      "slug": "birtamod_jhapa",
+      "name_en": "Birtamod, Jhapa",
+      "name_np": "बिर्तामोड, झापा",
+      "status": "ok",
+      "file": "birtamod_jhapa.json"
+    },
+    {
+      "slug": "dharan_sunsari",
+      "name_en": "Dharan, Sunsari",
+      "name_np": "धरान, सुनसरी",
+      "status": "ok",
+      "file": "dharan_sunsari.json"
+    },
+    {
+      "slug": "dhalkebar_dhanusha",
+      "name_en": "Dhalkebar, Dhanusha",
+      "name_np": "ढल्केवर, धनुषा",
+      "status": "ok",
+      "file": "dhalkebar_dhanusha.json"
+    },
+    {
+      "slug": "kamalamai_sindhuli",
+      "name_en": "Kamalamai, Sindhuli",
+      "name_np": "कमलामाई, सिन्धुली",
+      "status": "error: No price tables found for market 2598da44-a65d-43f6-8ee2-10da417f6e32 after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
+      "file": "kamalamai_sindhuli.json"
+    },
+    {
+      "slug": "kawasoti_nawalpur",
+      "name_en": "Kawasoti, Nawalpur",
+      "name_np": "कावासोती, नवलपुर",
+      "status": "ok",
+      "file": "kawasoti_nawalpur.json"
+    },
+    {
+      "slug": "pokhara_kaski",
+      "name_en": "Pokhara, Kaski",
+      "name_np": "पोखरा, कास्की",
+      "status": "ok",
+      "file": "pokhara_kaski.json"
+    },
+    {
+      "slug": "butwal_rupandehi",
+      "name_en": "Butwal, Rupandehi",
+      "name_np": "बुटवल, रुपन्देही",
+      "status": "ok",
+      "file": "butwal_rupandehi.json"
+    },
+    {
+      "slug": "kohalpur_banke",
+      "name_en": "Kohalpur, Banke",
+      "name_np": "कोहलपुर, बाँके",
+      "status": "ok",
+      "file": "kohalpur_banke.json"
+    },
+    {
+      "slug": "birendranagar_surkhet",
+      "name_en": "Birendranagar, Surkhet",
+      "name_np": "बिरेन्द्रनगर, सुर्खेत",
+      "status": "ok",
+      "file": "birendranagar_surkhet.json"
+    },
+    {
+      "slug": "attariya_kailali",
+      "name_en": "Attariya, Kailali",
+      "name_np": "अत्तरिया, कैलाली",
+      "status": "ok",
+      "file": "attariya_kailali.json"
+    },
+    {
+      "slug": "lalbandi_sarlahi",
+      "name_en": "Lalbandi, Sarlahi",
+      "name_np": "लालबन्दी, सर्लाही",
+      "status": "ok",
+      "file": "lalbandi_sarlahi.json"
+    }
+  ]
+}

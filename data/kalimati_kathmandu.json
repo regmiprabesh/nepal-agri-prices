@@ -1,0 +1,1494 @@
+{
+  "market_slug": "kalimati_kathmandu",
+  "market_name_en": "Kalimati, Kathmandu",
+  "market_name_np": "कालीमाटी, काठमाडौं",
+  "status": "ok",
+  "fetched_at_utc": "2026-06-25T06:58:25.336050+00:00",
+  "prices": [
+    {
+      "category_np": "",
+      "name": {
+        "en": "Tomato Big(Nepali)",
+        "ne": "गोलभेडा ठूलो(नेपाली)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 53.75
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Tomato Small(Local)",
+        "ne": "गोलभेडा सानो(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 8.0,
+      "max": 12.0,
+      "avg": 9.6
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Tomato Small(Tunnel)",
+        "ne": "गोलभेडा सानो(टनेल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 12.0,
+      "max": 20.0,
+      "avg": 15.8
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Potato Red(Long)",
+        "ne": "आलु रातो(लाम्चो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 35.0,
+      "max": 38.0,
+      "avg": 36.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Potato Red(Round)",
+        "ne": "रातो आलु(गोलो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 32.0,
+      "max": 35.0,
+      "avg": 33.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Potato Red(Mude)",
+        "ne": "आलु रातो(मुडे)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 32.0,
+      "max": 35.0,
+      "avg": 34.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Potato Red(Indian)",
+        "ne": "आलु रातो(भारतीय)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 28.0,
+      "max": 30.0,
+      "avg": 29.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Potato White",
+        "ne": "आलु सेतो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 28.0,
+      "max": 30.0,
+      "avg": 29.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Onion Dry (Indian)",
+        "ne": "प्याज सुकेको (भारतीय)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 52.0,
+      "avg": 51.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Carrot(Local)",
+        "ne": "गाजर(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 90.0,
+      "max": 100.0,
+      "avg": 95.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cabbage(Local)",
+        "ne": "बन्दा(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 53.75
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cauli Local",
+        "ne": "काउली स्थानिय"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 100.0,
+      "max": 120.0,
+      "avg": 113.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Raddish Red",
+        "ne": "मूला रातो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 25.0,
+      "max": 30.0,
+      "avg": 27.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Raddish White(Hybrid)",
+        "ne": "सेतो मूला(हाइब्रीड)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 15.0,
+      "max": 20.0,
+      "avg": 18.25
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Brinjal Long",
+        "ne": "भन्टा लाम्चो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 15.0,
+      "max": 20.0,
+      "avg": 17.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Brinjal Round",
+        "ne": "भन्टा डल्लो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 25.0,
+      "max": 30.0,
+      "avg": 27.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cow pea(Long)",
+        "ne": "बोडी(तने)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 20.0,
+      "max": 30.0,
+      "avg": 25.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cowpea(Short)",
+        "ne": "मकै बोडी"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 43.75
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Green Peas",
+        "ne": "मटरकोशा"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 180.0,
+      "max": 200.0,
+      "avg": 190.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "French Bean(Local)",
+        "ne": "घिउ सिमी(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 60.0,
+      "avg": 50.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "French Bean(Hybrid)",
+        "ne": "घिउ सिमी(हाइब्रीड)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 60.0,
+      "avg": 51.25
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "French Bean(Rajma)",
+        "ne": "घिउ सिमी(राजमा)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 70.0,
+      "max": 90.0,
+      "avg": 80.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Sword Bean",
+        "ne": "टाटे सिमी"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 53.75
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Soyabean Green",
+        "ne": "भटमासकोशा"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 80.0,
+      "max": 100.0,
+      "avg": 90.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Bitter Gourd",
+        "ne": "तितो करेला"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Bottle Gourd",
+        "ne": "लौका"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 45.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Pointed Gourd(Local)",
+        "ne": "परवर(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Pointed Gourd(Terai)",
+        "ne": "परवर(तराई)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Snake Gourd",
+        "ne": "चिचिण्डो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 20.0,
+      "max": 30.0,
+      "avg": 25.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Smooth Gourd",
+        "ne": "घिरौला"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Sponge Gourd",
+        "ne": "झिगूनी"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 45.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Pumpkin",
+        "ne": "फर्सी पाकेको"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 55.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Squash(Long)",
+        "ne": "फर्सी हरियो(लाम्चो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 45.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Squash(Round)",
+        "ne": "हरियो फर्सी(डल्लो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Okra",
+        "ne": "भिण्डी"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 20.0,
+      "max": 30.0,
+      "avg": 25.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Sweet Potato",
+        "ne": "सखरखण्ड"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 100.0,
+      "max": 120.0,
+      "avg": 110.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Arum",
+        "ne": "पिंडालू"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 90.0,
+      "max": 100.0,
+      "avg": 95.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Christophine",
+        "ne": "स्कूस"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Brd Leaf Mustard",
+        "ne": "रायो साग"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Spinach Leaf",
+        "ne": "पालूगो साग"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 55.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cress Leaf",
+        "ne": "चमसूरको साग"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 55.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mustard Leaf",
+        "ne": "तोरीको साग"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 45.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Onion Green",
+        "ne": "प्याज हरियो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 120.0,
+      "max": 150.0,
+      "avg": 130.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mushroom(Kanya)",
+        "ne": "च्याउ(कन्य)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 220.0,
+      "max": 250.0,
+      "avg": 237.5
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mushroom(Button)",
+        "ne": "च्याउ(डल्ले)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 400.0,
+      "max": 450.0,
+      "avg": 420.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "King Oyster",
+        "ne": "राजा च्याउ"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 280.0,
+      "max": 300.0,
+      "avg": 290.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Lentinula Edodes",
+        "ne": "सिताके च्याउ"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 800.0,
+      "max": 1000.0,
+      "avg": 900.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Asparagus",
+        "ne": "कुरीलो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 250.0,
+      "max": 300.0,
+      "avg": 276.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Neuro",
+        "ne": "न्यूरो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 90.0,
+      "max": 100.0,
+      "avg": 95.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Broccoli",
+        "ne": "ब्रोकाउली"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 80.0,
+      "max": 100.0,
+      "avg": 90.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Sugarbeet",
+        "ne": "चुकुन्दर"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 60.0,
+      "max": 70.0,
+      "avg": 65.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Drumstick",
+        "ne": "सजिवन"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 200.0,
+      "max": 250.0,
+      "avg": 226.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Red Cabbbage",
+        "ne": "रातो बन्दा"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Lettuce",
+        "ne": "जिरीको साग"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 80.0,
+      "max": 100.0,
+      "avg": 90.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Celery",
+        "ne": "सेलरी"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 140.0,
+      "max": 150.0,
+      "avg": 145.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Parsley",
+        "ne": "पार्सले"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 300.0,
+      "max": 350.0,
+      "avg": 326.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Fennel Leaf",
+        "ne": "सौफको साग"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 60.0,
+      "max": 70.0,
+      "avg": 65.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mint",
+        "ne": "पुदीना"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 180.0,
+      "max": 200.0,
+      "avg": 190.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Turnip A",
+        "ne": "गान्टे मूला"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 55.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Tamarind",
+        "ne": "इमली"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 160.0,
+      "max": 180.0,
+      "avg": 170.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Bamboo Shoot",
+        "ne": "तामा"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 140.0,
+      "max": 160.0,
+      "avg": 150.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Tofu",
+        "ne": "तोफु"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 140.0,
+      "max": 160.0,
+      "avg": 150.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Gundruk",
+        "ne": "गुन्दुक"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 300.0,
+      "max": 350.0,
+      "avg": 326.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Apple(Fuji)",
+        "ne": "स्याउ(फूजी)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 280.0,
+      "max": 300.0,
+      "avg": 290.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Banana(Nepali)",
+        "ne": "केरा(नेपाली)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Dozen",
+        "ne": "दर्जन"
+      },
+      "min": 200.0,
+      "max": 250.0,
+      "avg": 226.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Banana(Malbhog)",
+        "ne": "केरा(मालभोग)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Dozen",
+        "ne": "दर्जन"
+      },
+      "min": 180.0,
+      "max": 200.0,
+      "avg": 190.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Lime",
+        "ne": "कागती"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 170.0,
+      "max": 200.0,
+      "avg": 185.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Pomegranate",
+        "ne": "अनार"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 400.0,
+      "max": 420.0,
+      "avg": 410.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mango(Maldah)",
+        "ne": "आँप(मालदह)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 80.0,
+      "max": 90.0,
+      "avg": 85.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mango(Dushari)",
+        "ne": "आँप(दसहरी)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 90.0,
+      "max": 100.0,
+      "avg": 95.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Water Melon(Green)",
+        "ne": "तरबुजा(हरियो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 55.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Mandarin",
+        "ne": "जुनार"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 200.0,
+      "max": 230.0,
+      "avg": 216.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Pineapple",
+        "ne": "भुई कटहर"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Piece",
+        "ne": "थान"
+      },
+      "min": 180.0,
+      "max": 200.0,
+      "avg": 190.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cucumber(Local)",
+        "ne": "काक्रो(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 60.0,
+      "max": 70.0,
+      "avg": 65.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cucumber(Hybrid)",
+        "ne": "काक्रो(हाइब्रीड)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 20.0,
+      "max": 30.0,
+      "avg": 25.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Cucumber(LocalCross)",
+        "ne": "काक्रो(लोकलक्रस)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 50.0,
+      "max": 60.0,
+      "avg": 56.25
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Jack Fruit",
+        "ne": "रुख कटहर"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 45.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Pear(Chinese)",
+        "ne": "नासपाती(चाइनिज)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 230.0,
+      "max": 250.0,
+      "avg": 240.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Papaya(Nepali)",
+        "ne": "मेवा(नेपाली)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 80.0,
+      "max": 90.0,
+      "avg": 85.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Papaya(Indian)",
+        "ne": "मेवा(भारतीय)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 100.0,
+      "max": 120.0,
+      "avg": 110.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Litchi(Local)",
+        "ne": "लीच्ची(लोकल)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 150.0,
+      "max": 200.0,
+      "avg": 176.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Litchi(Indian)",
+        "ne": "लीच्ची(भारतीय)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 280.0,
+      "max": 300.0,
+      "avg": 290.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Coconut(Tender)",
+        "ne": "नरिवल(काँचो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 60.0,
+      "max": 80.0,
+      "avg": 70.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Coconut(Green)",
+        "ne": "नरिवल(हरियो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 150.0,
+      "max": 170.0,
+      "avg": 160.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Ginger",
+        "ne": "अदुवा"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 120.0,
+      "max": 140.0,
+      "avg": 130.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Chilli Dry",
+        "ne": "खु्र्सानी सुकेको"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 450.0,
+      "max": 500.0,
+      "avg": 476.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Chilli Green(Long)",
+        "ne": "खुर्सानी हरियो(लाम्चो)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 30.0,
+      "max": 40.0,
+      "avg": 35.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Chilli Green(Bullet)",
+        "ne": "खुर्सानी हरियो(बुलेट)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 25.0,
+      "max": 30.0,
+      "avg": 27.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Chilli Green(Machhe)",
+        "ne": "खुर्सानी हरियो(माछे)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 40.0,
+      "max": 50.0,
+      "avg": 45.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Chilli Green(Akbare)",
+        "ne": "खुर्सानी हरियो(अकबरे)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 200.0,
+      "max": 300.0,
+      "avg": 257.5
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Capsicum",
+        "ne": "भेडे खु्र्सानी"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 70.0,
+      "max": 80.0,
+      "avg": 73.75
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Garlic Green",
+        "ne": "लसुन हरियो"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 150.0,
+      "max": 200.0,
+      "avg": 176.67
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Coriander Green",
+        "ne": "हरियो धनिया"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 100.0,
+      "max": 150.0,
+      "avg": 127.5
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Garlic Dry Chinese",
+        "ne": "लसुन सुकेको चाइनिज"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 200.0,
+      "max": 220.0,
+      "avg": 212.5
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Garlic Dry Nepali",
+        "ne": "लसुन सुकेको नेपाली"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 160.0,
+      "max": 180.0,
+      "avg": 172.5
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Fish Dry",
+        "ne": "माछा सुकेको"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 800.0,
+      "max": 1000.0,
+      "avg": 900.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Fish Fresh(Rahu)",
+        "ne": "ताजा माछा(रहु)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 320.0,
+      "max": 340.0,
+      "avg": 330.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Fish Fresh(Bachuwa)",
+        "ne": "ताजा माछा(बचुवा)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 280.0,
+      "max": 300.0,
+      "avg": 290.0
+    },
+    {
+      "category_np": "",
+      "name": {
+        "en": "Fish Fresh(Chhadi)",
+        "ne": "ताजा माछा(छडी)"
+      },
+      "name_source": "kalimati_api",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 230.0,
+      "max": 250.0,
+      "avg": 240.0
+    }
+  ]
+}
