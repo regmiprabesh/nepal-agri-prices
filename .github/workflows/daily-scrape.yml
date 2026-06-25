@@ -1,0 +1,97 @@
+name: Daily market price scrape
+
+on:
+  schedule:
+    # Runs at 1:07 AM Nepal time. Using the `timezone` key (IANA name)
+    # instead of hand-converting NPT (UTC+5:45) to UTC — GitHub handles
+    # the conversion, including any future DST-style changes (Nepal
+    # doesn't observe DST, but this is more robust either way).
+    # Minute is offset from :00 deliberately: GitHub Actions cron jobs
+    # cluster at the top of the hour and can be delayed under that load;
+    # off-peak minutes tend to run closer to on-time. Not load-bearing
+    # for a once-a-day price update either way.
+    - cron: "22 19 * * *"   # 19:22 UTC = 1:07 AM Nepal time (UTC+5:45)
+      timezone: "Asia/Kathmandu"
+  # Lets you trigger a run manually from the Actions tab, e.g. while
+  # testing, instead of waiting for the schedule.
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # needed to commit the scraped data back to the repo
+
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false   # never cancel a run that's already writing data
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright's Chromium browser
+        # --with-deps pulls in the OS-level libraries Chromium needs on
+        # a fresh Ubuntu runner (fonts, codecs, etc.) — without this,
+        # the browser binary is present but fails to launch.
+        run: playwright install --with-deps chromium
+
+      - name: Install Xvfb (virtual display)
+        # kalimati_fetcher.py launches Chromium with headless=False —
+        # the Kalimati site's anti-bot check specifically looks for
+        # window.outerWidth/outerHeight being 0, which is only true in
+        # headless mode. Running "headed" requires a real (or virtual)
+        # display on Linux. ubuntu-latest runners don't have Xvfb
+        # preinstalled for plain Playwright (only Microsoft's own
+        # Docker image does), so install it explicitly.
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
+      - name: Run scraper
+        id: scrape
+        # continue-on-error means a non-zero exit here does NOT stop the
+        # workflow, so we always reach the commit step below and never
+        # leave stale data in place after a partial failure. Don't try
+        # to manually echo $? into GITHUB_OUTPUT — bash's default `-e`
+        # means a failing command aborts the script before that echo
+        # line ever runs. Use the step's own `outcome` (steps.scrape.outcome)
+        # in the later step instead, which GitHub Actions tracks natively.
+        #
+        # xvfb-run wraps the whole process in a virtual display so the
+        # headed Chromium launch in kalimati_fetcher.py has something to
+        # render into, despite this runner having no real screen.
+        run: |
+          cd src
+          xvfb-run --auto-servernum -- python3 main.py
+        continue-on-error: true
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily market price scrape $(date -u +'%Y-%m-%d')"
+            git push
+          fi
+
+      - name: Fail the workflow if the scrape had errors
+        # This runs AFTER the commit above, so partial/successful data is
+        # never lost even when this step makes the overall run red —
+        # that red is just a visible signal for you to go check the logs.
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          echo "::error::main.py exited non-zero — at least one market failed. Check the 'Run scraper' step log above."
+          exit 1
