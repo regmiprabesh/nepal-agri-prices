@@ -3,6 +3,6 @@
   "market_name_en": "Butwal, Rupandehi",
   "market_name_np": "बुटवल, रुपन्देही",
   "status": "error: No price tables found for market 75b5ebdb-f20e-4cc8-a7dd-cb20f1e84b6c after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
-  "fetched_at_utc": "2026-06-27T20:35:21.415203+00:00",
+  "fetched_at_utc": "2026-06-28T20:39:27.636638+00:00",
   "prices": []
 }

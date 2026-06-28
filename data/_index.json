@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-27T20:35:33.698346+00:00",
+  "generated_at_utc": "2026-06-28T20:39:38.004418+00:00",
   "markets": [
     {
       "slug": "kalimati_kathmandu",
@@ -26,7 +26,7 @@
       "slug": "dhalkebar_dhanusha",
       "name_en": "Dhalkebar, Dhanusha",
       "name_np": "ढल्केवर, धनुषा",
-      "status": "error: No price tables found for market a9e5c705-82d0-47ed-9f48-e549b383a08c after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
+      "status": "ok",
       "file": "dhalkebar_dhanusha.json"
     },
     {
@@ -61,7 +61,7 @@
       "slug": "kohalpur_banke",
       "name_en": "Kohalpur, Banke",
       "name_np": "कोहलपुर, बाँके",
-      "status": "error: No price tables found for market edb979a3-883e-4e50-96dd-8347c2c8b4b9 after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
+      "status": "ok",
       "file": "kohalpur_banke.json"
     },
     {
