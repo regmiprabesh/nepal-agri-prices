@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-06-28T20:39:38.004418+00:00",
+  "generated_at_utc": "2026-06-29T21:00:51.202000+00:00",
   "markets": [
     {
       "slug": "kalimati_kathmandu",
@@ -54,7 +54,7 @@
       "slug": "butwal_rupandehi",
       "name_en": "Butwal, Rupandehi",
       "name_np": "बुटवल, रुपन्देही",
-      "status": "error: No price tables found for market 75b5ebdb-f20e-4cc8-a7dd-cb20f1e84b6c after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
+      "status": "ok",
       "file": "butwal_rupandehi.json"
     },
     {
@@ -75,7 +75,7 @@
       "slug": "attariya_kailali",
       "name_en": "Attariya, Kailali",
       "name_np": "अत्तरिया, कैलाली",
-      "status": "ok",
+      "status": "error: No price tables found for market e5cb4842-5d11-439d-8673-1608758b06fe after both static and rendered fetch attempts. Check the page manually — AMPIS may have changed its markup, or the table may require selecting a date/category in the form before it renders.",
       "file": "attariya_kailali.json"
     },
     {

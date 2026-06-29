@@ -3,10 +3,10 @@
   "market_name_en": "Dhalkebar, Dhanusha",
   "market_name_np": "ढल्केवर, धनुषा",
   "status": "ok",
-  "fetched_at_utc": "2026-06-28T20:39:15.250556+00:00",
+  "fetched_at_utc": "2026-06-29T21:00:30.236815+00:00",
   "prices": [
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Tomato Small (Tunnel)",
         "ne": "गोलभेंडा सानो (टनेल)"
@@ -16,27 +16,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 28.0,
-      "max": 30.0,
-      "avg": 29.0
+      "min": 30.0,
+      "max": 32.0,
+      "avg": 31.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Tomato Small (Tunnel)",
-        "ne": "गोलभेंडा सानो (टनेल)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 35.0,
-      "max": 37.0,
-      "avg": 36.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Onion Dry (Indian)",
         "ne": "प्याज सुकेको (भारतीय)"
@@ -51,22 +36,7 @@
       "avg": 50.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Onion Dry (Indian)",
-        "ne": "प्याज सुकेको (भारतीय)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 40.0,
-      "max": 45.0,
-      "avg": 42.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Carrot (Nepali)",
         "ne": "गाँजर (नेपाली)"
@@ -76,27 +46,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 80.0,
+      "min": 85.0,
       "max": 90.0,
-      "avg": 85.0
+      "avg": 87.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Carrot (Nepali)",
-        "ne": "गाँजर (नेपाली)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 95.0,
-      "max": 100.0,
-      "avg": 97.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Cabbage (Coconut)",
         "ne": "बन्दा (नरिवल)"
@@ -111,22 +66,7 @@
       "avg": 49.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Cabbage (Coconut)",
-        "ne": "बन्दा (नरिवल)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 48.0,
-      "max": 50.0,
-      "avg": 49.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Cauliflower Local (Jyapu)",
         "ne": "काउली स्थानीय (ज्यापू)"
@@ -136,27 +76,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 80.0,
+      "min": 90.0,
       "max": 100.0,
-      "avg": 90.0
+      "avg": 95.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Cauliflower Local (Jyapu)",
-        "ne": "काउली स्थानीय (ज्यापू)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 80.0,
-      "max": 90.0,
-      "avg": 85.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Radish White (Hybrid)",
         "ne": "मूला सेतो (हाइब्रिड)"
@@ -171,22 +96,7 @@
       "avg": 21.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Radish White (Hybrid)",
-        "ne": "मूला सेतो (हाइब्रिड)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 26.0,
-      "max": 28.0,
-      "avg": 27.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Brinjal Long",
         "ne": "भन्टा लाम्चो"
@@ -196,27 +106,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 48.0,
-      "max": 50.0,
-      "avg": 49.0
+      "min": 50.0,
+      "max": 55.0,
+      "avg": 52.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Brinjal Long",
-        "ne": "भन्टा लाम्चो"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 60.0,
-      "max": 65.0,
-      "avg": 62.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Bitter Gourd",
         "ne": "तितो करेला"
@@ -226,27 +121,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 25.0,
+      "min": 27.0,
       "max": 30.0,
-      "avg": 27.5
+      "avg": 28.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Bitter Gourd",
-        "ne": "तितो करेला"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 30.0,
-      "max": 35.0,
-      "avg": 32.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Bottle Gourd",
         "ne": "लौका"
@@ -256,42 +136,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 6.0,
-      "max": 7.0,
-      "avg": 6.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Bottle Gourd",
-        "ne": "लौका"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 9.0,
+      "min": 8.0,
       "max": 10.0,
-      "avg": 9.5
+      "avg": 9.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Pointed Gourd (Local)",
-        "ne": "परवर (लोकल)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 28.0,
-      "max": 30.0,
-      "avg": 29.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Pointed Gourd (Local)",
         "ne": "परवर (लोकल)"
@@ -306,70 +156,10 @@
       "avg": 32.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Pointed Gourd (Terai)",
         "ne": "परवर (तराई)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 20.0,
-      "max": 25.0,
-      "avg": 22.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Pointed Gourd (Terai)",
-        "ne": "परवर (तराई)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 20.0,
-      "max": 25.0,
-      "avg": 22.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Smooth Gourd",
-        "ne": "घिरौंला"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 10.0,
-      "max": 15.0,
-      "avg": 12.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Smooth Gourd",
-        "ne": "घिरौंला"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 12.0,
-      "max": 15.0,
-      "avg": 13.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Sponge Gourd",
-        "ne": "झिगूनी"
       },
       "name_source": "static_map",
       "unit": {
@@ -381,7 +171,22 @@
       "avg": 24.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
+      "name": {
+        "en": "Smooth Gourd",
+        "ne": "घिरौंला"
+      },
+      "name_source": "static_map",
+      "unit": {
+        "en": "Kg",
+        "ne": "के.जी."
+      },
+      "min": 13.0,
+      "max": 15.0,
+      "avg": 14.0
+    },
+    {
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Sponge Gourd",
         "ne": "झिगूनी"
@@ -391,12 +196,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 30.0,
-      "max": 35.0,
-      "avg": 32.5
+      "min": 25.0,
+      "max": 30.0,
+      "avg": 27.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Pumpkin",
         "ne": "फर्सी पाकेको"
@@ -411,22 +216,7 @@
       "avg": 19.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Pumpkin",
-        "ne": "फर्सी पाकेको"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 19.0,
-      "max": 20.0,
-      "avg": 19.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Squash (Round)",
         "ne": "फर्सी हरियो (डल्लो)"
@@ -441,22 +231,7 @@
       "avg": 17.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Squash (Round)",
-        "ne": "फर्सी हरियो (डल्लो)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 13.0,
-      "max": 15.0,
-      "avg": 14.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Okra",
         "ne": "भिण्डी"
@@ -466,57 +241,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 20.0,
+      "min": 23.0,
       "max": 25.0,
-      "avg": 22.5
+      "avg": 24.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Okra",
-        "ne": "भिण्डी"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 25.0,
-      "max": 30.0,
-      "avg": 27.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Drumstick",
-        "ne": "सजिवन"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 60.0,
-      "max": 70.0,
-      "avg": 65.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Lime",
-        "ne": "कागती"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 15.0,
-      "max": 20.0,
-      "avg": 17.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Lime",
         "ne": "कागती"
@@ -531,7 +261,7 @@
       "avg": 22.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Chilli Green (Long)",
         "ne": "खुर्सानी हरियो (लाम्चो)"
@@ -541,42 +271,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 40.0,
-      "max": 45.0,
-      "avg": 42.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Chilli Green (Long)",
-        "ne": "खुर्सानी हरियो (लाम्चो)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 37.0,
-      "max": 40.0,
-      "avg": 38.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Chilli Green (Bullet)",
-        "ne": "खुर्सानी हरियो (बुलेट)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 40.0,
+      "min": 45.0,
       "max": 50.0,
-      "avg": 45.0
+      "avg": 47.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Chilli Green (Bullet)",
         "ne": "खुर्सानी हरियो (बुलेट)"
@@ -591,7 +291,7 @@
       "avg": 47.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Potato Red (Indian)",
         "ne": "आलु रातो (भारतीय)"
@@ -606,22 +306,7 @@
       "avg": 23.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Potato Red (Indian)",
-        "ne": "आलु रातो (भारतीय)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 23.0,
-      "max": 24.0,
-      "avg": 23.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Arum",
         "ne": "पिंडालु"
@@ -636,7 +321,7 @@
       "avg": 29.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Cow Pea (Long)",
         "ne": "बोडी (तने)"
@@ -646,27 +331,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 20.0,
+      "min": 25.0,
       "max": 30.0,
-      "avg": 25.0
+      "avg": 27.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Cow Pea (Long)",
-        "ne": "बोडी (तने)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 30.0,
-      "max": 40.0,
-      "avg": 35.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Maize Cow Pea",
         "ne": "मकै बोडी"
@@ -681,22 +351,7 @@
       "avg": 22.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Maize Cow Pea",
-        "ne": "मकै बोडी"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 25.0,
-      "max": 30.0,
-      "avg": 27.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Apple (Jhole)",
         "ne": "स्याउ (झोले)"
@@ -711,22 +366,7 @@
       "avg": 185.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Apple (Jhole)",
-        "ne": "स्याउ (झोले)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 160.0,
-      "max": 170.0,
-      "avg": 165.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Apple (Fuji)",
         "ne": "स्याउ (फूजी)"
@@ -741,22 +381,7 @@
       "avg": 340.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Apple (Fuji)",
-        "ne": "स्याउ (फूजी)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 270.0,
-      "max": 280.0,
-      "avg": 275.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Banana (Malbhog)",
         "ne": "केरा (मालभोग)"
@@ -766,27 +391,12 @@
         "en": "Dozen",
         "ne": "दर्जन"
       },
-      "min": 110.0,
-      "max": 120.0,
-      "avg": 115.0
+      "min": 120.0,
+      "max": 130.0,
+      "avg": 125.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Banana (Malbhog)",
-        "ne": "केरा (मालभोग)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Dozen",
-        "ne": "दर्जन"
-      },
-      "min": 130.0,
-      "max": 140.0,
-      "avg": 135.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Banana (Green)",
         "ne": "केरा (हरियो)"
@@ -796,27 +406,12 @@
         "en": "Dozen",
         "ne": "दर्जन"
       },
-      "min": 90.0,
-      "max": 100.0,
-      "avg": 95.0
+      "min": 100.0,
+      "max": 110.0,
+      "avg": 105.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Banana (Green)",
-        "ne": "केरा (हरियो)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Dozen",
-        "ne": "दर्जन"
-      },
-      "min": 110.0,
-      "max": 120.0,
-      "avg": 115.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Pomegranate",
         "ne": "अनार"
@@ -831,22 +426,7 @@
       "avg": 395.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Pomegranate",
-        "ne": "अनार"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 400.0,
-      "max": 410.0,
-      "avg": 405.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Mango (Maldah)",
         "ne": "आँप (मालदह)"
@@ -856,27 +436,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 45.0,
-      "max": 50.0,
-      "avg": 47.5
+      "min": 50.0,
+      "max": 55.0,
+      "avg": 52.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Mango (Maldah)",
-        "ne": "आँप (मालदह)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 45.0,
-      "max": 50.0,
-      "avg": 47.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Mango (Dushari)",
         "ne": "आँप (दसहरी)"
@@ -886,27 +451,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 45.0,
-      "max": 50.0,
-      "avg": 47.5
+      "min": 50.0,
+      "max": 55.0,
+      "avg": 52.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Mango (Dushari)",
-        "ne": "आँप (दसहरी)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 45.0,
-      "max": 50.0,
-      "avg": 47.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Mango (Kalkatte)",
         "ne": "आँप (कलकत्ते)"
@@ -916,42 +466,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 22.0,
+      "min": 23.0,
       "max": 25.0,
-      "avg": 23.5
+      "avg": 24.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Mango (Kalkatte)",
-        "ne": "आँप (कलकत्ते)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 24.0,
-      "max": 25.0,
-      "avg": 24.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Mango (Bombay)",
-        "ne": "आँप (बम्बे)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 70.0,
-      "max": 75.0,
-      "avg": 72.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Mango (Bombay)",
         "ne": "आँप (बम्बे)"
@@ -966,22 +486,7 @@
       "avg": 75.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Ground Jackfruit",
-        "ne": "भुँईकटहर"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 80.0,
-      "max": 90.0,
-      "avg": 85.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Cucumber (Local)",
         "ne": "काँक्रो (लोकल)"
@@ -996,22 +501,7 @@
       "avg": 21.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Cucumber (Local)",
-        "ne": "काँक्रो (लोकल)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 20.0,
-      "max": 25.0,
-      "avg": 22.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Cucumber (Hybrid)",
         "ne": "काँक्रो (हाइब्रिड)"
@@ -1026,22 +516,7 @@
       "avg": 14.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Jack Fruit",
-        "ne": "रुख कटहर"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 15.0,
-      "max": 20.0,
-      "avg": 17.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Jack Fruit",
         "ne": "रुख कटहर"
@@ -1056,22 +531,7 @@
       "avg": 19.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Papaya (Nepali)",
-        "ne": "मेवा (नेपाली)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 80.0,
-      "max": 85.0,
-      "avg": 82.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Ginger",
         "ne": "अदुवा"
@@ -1086,22 +546,7 @@
       "avg": 127.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Ginger",
-        "ne": "अदुवा"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 110.0,
-      "max": 120.0,
-      "avg": 115.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Chilli Dry",
         "ne": "सुकेको खुर्सानी"
@@ -1116,37 +561,7 @@
       "avg": 395.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Chilli Dry",
-        "ne": "सुकेको खुर्सानी"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 370.0,
-      "max": 420.0,
-      "avg": 395.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Capsicum",
-        "ne": "भेडे खुर्सानी"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 75.0,
-      "max": 80.0,
-      "avg": 77.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Garlic Dry (Chinese)",
         "ne": "सुकेको चाईनिज लसुन"
@@ -1161,22 +576,7 @@
       "avg": 177.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Garlic Dry (Chinese)",
-        "ne": "सुकेको चाईनिज लसुन"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 190.0,
-      "max": 200.0,
-      "avg": 195.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Garlic Dry (Nepali)",
         "ne": "सुकेको नेपाली लसुन"
@@ -1191,22 +591,7 @@
       "avg": 127.5
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Garlic Dry (Nepali)",
-        "ne": "सुकेको नेपाली लसुन"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 110.0,
-      "max": 115.0,
-      "avg": 112.5
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Coriander Green",
         "ne": "हरियो धनिया"
@@ -1216,27 +601,12 @@
         "en": "Kg",
         "ne": "के.जी."
       },
-      "min": 100.0,
-      "max": 150.0,
-      "avg": 125.0
+      "min": 150.0,
+      "max": 180.0,
+      "avg": 165.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Coriander Green",
-        "ne": "हरियो धनिया"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 230.0,
-      "max": 250.0,
-      "avg": 240.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Chicken Meat (Broiler)",
         "ne": "कुखुराको मासु (बोईलर)"
@@ -1251,37 +621,7 @@
       "avg": 345.0
     },
     {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Chicken Meat (Broiler)",
-        "ne": "कुखुराको मासु (बोईलर)"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 340.0,
-      "max": 350.0,
-      "avg": 345.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
-      "name": {
-        "en": "Goat Meat",
-        "ne": "खसीको मासु"
-      },
-      "name_source": "static_map",
-      "unit": {
-        "en": "Kg",
-        "ne": "के.जी."
-      },
-      "min": 1100.0,
-      "max": 1150.0,
-      "avg": 1125.0
-    },
-    {
-      "category_np": "मिति: असार 14, 2083",
+      "category_np": "मिति: असार 15, 2083",
       "name": {
         "en": "Goat Meat",
         "ne": "खसीको मासु"
